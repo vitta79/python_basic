@@ -1,0 +1,8 @@
+Sokak Nobetcileri
+Koza Aktan
+Yanki Sarca
+Bartu Sarca
+Lal Sarca
+Isik Sarca
+Mutlu Sarca
+Helin Aktanfile1 is existing file and we can add some phrases to it with 'a' it means append
